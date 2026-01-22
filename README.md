@@ -1,0 +1,1 @@
+# simulatore-consumi-casa
